@@ -22,6 +22,10 @@ button:hover {
   cursor: pointer;
 }
 
+li {
+  height: 30px;
+}
+
 .list-row {
   display: flex;
   align-items: center;
